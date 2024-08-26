@@ -7,3 +7,4 @@ các sản phẩm:
  # tủ trưng bày 
  ? có bỏ chặn các shop khác không 
  ? có cho các shop khác vào group không 
+ ? có phát triển thành viên ra các tỉnh khác không 
